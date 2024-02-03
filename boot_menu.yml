@@ -1,5 +1,5 @@
 ublue_variants:
-  - label: ublue-os/startingpoint
+  - label: realvishy/my-vishtop
     ks: /kickstart/ublue-os.ks
     flavors:
-      - label: startingpoint
+      - label: my-vishtop
